@@ -1,0 +1,30 @@
+{
+  "tool": "SnapSort Lite",
+  "applied": false,
+  "operations": [
+    {
+      "source": "C:\\Users\\adars\\Desktop\\One ML\\Hacktoberfest\\Week 3\\snapsort-lite\\demo\\input\\fictional-invoice.png",
+      "destination": "C:\\Users\\adars\\Desktop\\One ML\\Hacktoberfest\\Week 3\\snapsort-lite\\demo\\output\\Documents\\fictional-data-for-demo.png",
+      "category": "Documents",
+      "filename": "fictional-data-for-demo.png",
+      "ocr_text": "Invoice\n\nAcme Example Co.\nInvoice 2026-001\nTotal Due: $42.00\n\nFictional data for demo\n",
+      "sha256": "7f24e8df26336c8264e7a343bb8093affad6a46e9b01d82327905b9f60af4598"
+    },
+    {
+      "source": "C:\\Users\\adars\\Desktop\\One ML\\Hacktoberfest\\Week 3\\snapsort-lite\\demo\\input\\fictional-web.png",
+      "destination": "C:\\Users\\adars\\Desktop\\One ML\\Hacktoberfest\\Week 3\\snapsort-lite\\demo\\output\\Web\\welcome-to-the-fictional-demo-site.png",
+      "category": "Web",
+      "filename": "welcome-to-the-fictional-demo-site.png",
+      "ocr_text": "Example Web Page\n\nSearch results\nhttps://example.test\n\nWelcome to the fictional demo site\n",
+      "sha256": "827710688f270f67da0e72d7e1a47d78eee0e0ed27f5db85250e2d127e4694d8"
+    },
+    {
+      "source": "C:\\Users\\adars\\Desktop\\One ML\\Hacktoberfest\\Week 3\\snapsort-lite\\demo\\input\\python-code.png",
+      "destination": "C:\\Users\\adars\\Desktop\\One ML\\Hacktoberfest\\Week 3\\snapsort-lite\\demo\\output\\Code\\return-f-hello-name.png",
+      "category": "Code",
+      "filename": "return-f-hello-name.png",
+      "ocr_text": "Python editor\n\ndef greet(name):\nreturn f'Hello, {name}\n\nprint(greet('Ada\u2019))\n",
+      "sha256": "3c692877262416c42c8e2a79aae615d79f63e515ad56c263fed90bd169991e85"
+    }
+  ]
+}
